@@ -1,0 +1,22 @@
+{
+  "name": "business-website-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive business website demo built with Next.js, TypeScript and an admin panel preview.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^15.5.29",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.1",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^5.9.3"
+  }
+}
